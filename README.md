@@ -11,11 +11,10 @@
   Previous iterations:
   <a href="github.com/upadrastaharshavardhan/v1" target="_blank">v1</a>,
   <a href="github.com/upadrastaharshavardhan/v2" target="_blank">v2</a>,
-  <a href="github.com/upadrastaharshavardhan/upadrastaharshavardhan7.github.io" target="_blank">v3</a>
+  <a href="github.com/upadrastaharshavardhan/upadrastaharshavardhan.github.io" target="_blank">v3</a>
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ/deploy-status" alt="Netlify Status" />
+  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_bl
   </a>
 </p>
 
